@@ -1,0 +1,1 @@
+# ePatriote ISSUE TEMPLATE
